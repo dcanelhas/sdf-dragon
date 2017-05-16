@@ -9,4 +9,4 @@ The final signed distance field embedding was computed using [SDFGen](https://gi
 
 The resulting SDF available through this repository, as a VTI file (visualization toolkit image). It can be opened using [ParaView](http://www.paraview.org/).
 
-[![SDF Embedding, in ParaView](https://i.ytimg.com/vi/4CZbFTY0xjw/0.jpg)](https://youtu.be/4CZbFTY0xjw "SDF Embedding, in ParaView")
+[![SDF Embedding, in ParaView](https://i.ytimg.com/vi/LGhUYjX-Ly0/0.jpg)](https://youtu.be/LGhUYjX-Ly0 "SDF Embedding, in ParaView")
